@@ -11,7 +11,7 @@ Use your RC Receiver for controlling navigation light, a ultra bright spot light
 -	5x ultra bright 3mm led, red and green
 -	8x ltra bright 3mm led, white
 - 3x Transistor 2N3904
-- Elko XXV XXXµF
+- Elko 25V 100µF
 - Socket for Attiny
 - Some servo wires
 - A hackable fpv camera with hybrid ir lens
