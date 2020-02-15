@@ -1,6 +1,8 @@
 # Micro-Nav-Lights-Controller
 Use your RC Receiver for controlling navigation light, a ultra bright spot light and your FPV camera.
 
+# moved to https://git.mosad.xyz/localhorst/Micro-Nav-Lights-Controller
+
 #### Fast overview: Video will come soon.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi//0.jpg)]
